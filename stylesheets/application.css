@@ -1,6 +1,5 @@
 @import url(../../../stylesheets/application.css);
 
-
 #header {
 	background: #fff;
 	min-height: 0px;
@@ -790,7 +789,7 @@ div.thumbnails div {
 }
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-	background: #fcfcfc;
+	background: #759fcf;
 	font-weight: normal;
 	color: inherit;
 }
