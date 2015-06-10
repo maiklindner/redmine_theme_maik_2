@@ -789,10 +789,16 @@ div.thumbnails div {
 }
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-	background: #759fcf;
+	background: #fcfcfc;
 	font-weight: normal;
 	color: inherit;
 }
+
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight {
+	background: #628db6;
+	color: #fff;
+}
+
 
 .ui-dialog .ui-dialog-title {
 	float: left;
