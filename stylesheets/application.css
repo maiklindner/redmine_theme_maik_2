@@ -285,48 +285,48 @@ table.list th {
 }
 
 /*Immediately*/
-tr.odd.priority-7, table.list tbody tr.odd.priority-7:hover { color: #580D69; font-weight: normal; }
-tr.odd.priority-7 { background: #EDD8F2; }
-tr.odd.priority-7:hover, tr.even.priority-7:hover { background: #E3CFE8; }
-tr.even.priority-7, table.list tbody tr.even.priority-7:hover { color: #580D69; font-weight: normal; }
-tr.even.priority-7 { background: #EDDFF0; }
-tr.priority-7 a, tr.priority-7:hover a { color: #580D69; }
+tr.odd.priority-7, table.list tbody tr.odd.priority-7:hover { color: #000; font-weight: normal; }
+tr.odd.priority-7 { background: #f99393; }
+tr.odd.priority-7:hover, tr.even.priority-7:hover { background: #e88; }
+tr.even.priority-7, table.list tbody tr.even.priority-7:hover { color: #000; font-weight: normal; }
+tr.even.priority-7 { background: #f99; }
+tr.priority-7 a, tr.priority-7:hover a { color: #000 !important; }
 tr.odd.priority-7 td, tr.even.priority-7 td { border-color: transparent; }
 
 /*Immediately*/
-tr.odd.priority-6, table.list tbody tr.odd.priority-6:hover { color: #690000; font-weight: normal; }
-tr.odd.priority-6 { background: #F2D5D5; }
-tr.odd.priority-6:hover, tr.even.priority-6:hover { background: #E8CCCC; }
-tr.even.priority-6, table.list tbody tr.even.priority-6:hover { color: #690000; font-weight: normal; }
-tr.even.priority-6 { background: #F0DDDD; }
-tr.priority-6 a, tr.priority-6:hover a { color: #690000; }
+tr.odd.priority-6, table.list tbody tr.odd.priority-6:hover { color: #000; font-weight: normal; }
+tr.odd.priority-6 { background: #f9c671; }
+tr.odd.priority-6:hover, tr.even.priority-6:hover { background: #eb6; }
+tr.even.priority-6, table.list tbody tr.even.priority-6:hover { color: #000; font-weight: normal; }
+tr.even.priority-6 { background: #fc7; }
+tr.priority-6 a, tr.priority-6:hover a { color: #000 !important; }
 tr.odd.priority-6 td, tr.even.priority-6 td { border-color: transparent; }
 
 /*High*/
-tr.odd.priority-5, table.list tbody tr.odd.priority-5:hover { color: #694900; }
-tr.odd.priority-5 { background: #F2E9D5; }
-tr.odd.priority-5:hover, tr.even.priority-5:hover { background: #E8DFCC; }
-tr.even.priority-5, table.list tbody tr.even.priority-5:hover { color: #694900; }
-tr.even.priority-5 { background: #F0EBDD; }
-tr.priority-5 a { color: #694900; }
+tr.odd.priority-5, table.list tbody tr.odd.priority-5:hover { color: #000; }
+tr.odd.priority-5 { background: #f9e8b6; }
+tr.odd.priority-5:hover, tr.even.priority-5:hover { background: #eda; }
+tr.even.priority-5, table.list tbody tr.even.priority-5:hover { color: #000; }
+tr.even.priority-5 { background: #feb; }
+tr.priority-5 a { color: #000 !important; }
 tr.odd.priority-5 td, tr.even.priority-5 td { border-color: transparent; }
 
 /*Normal*/
-tr.odd.priority-4, table.list tbody tr.odd.priority-4:hover { color: #444; }
-tr.odd.priority-4 { background: #eee; }
-tr.odd.priority-4:hover, tr.even.priority-4:hover { background: #e5e5e5; }
-tr.even.priority-4, table.list tbody tr.even.priority-4:hover { color: #444; }
+tr.odd.priority-4, table.list tbody tr.odd.priority-4:hover { color: #000; }
+tr.odd.priority-4 { background: #f9f9f9; }
+tr.odd.priority-4:hover, tr.even.priority-4:hover { background: #eee; }
+tr.even.priority-4, table.list tbody tr.even.priority-4:hover { color: #000; }
 tr.even.priority-4 { background: #fff }
-tr.priority-4 a { color: #444; }
+tr.priority-4 a { color: #000 !important; }
 tr.odd.priority-4 td, tr.even.priority-4 td { border-color: transparent; }
 
 /*Low*/
-tr.odd.priority-3, table.list tbody tr.odd.priority-3:hover { color: #003C69; }
-tr.odd.priority-3 { background: #D5E5F2; }
-tr.odd.priority-3:hover, tr.even.priority-3:hover { background: #CCDCE8; }
-tr.even.priority-3, table.list tbody tr.even.priority-3:hover { color: #003C69; }
-tr.even.priority-3 { background: #DDE8F0; }
-tr.priority-3 a { color: #003C69; }
+tr.odd.priority-3, table.list tbody tr.odd.priority-3:hover { color: #000; }
+tr.odd.priority-3 { background: #d7f9c6; }
+tr.odd.priority-3:hover, tr.even.priority-3:hover { background: #ceb; }
+tr.even.priority-3, table.list tbody tr.even.priority-3:hover { color: #000; }
+tr.even.priority-3 { background: #dfc; }
+tr.priority-3 a { color: #000 !important; }
 tr.odd.priority-3 td, tr.even.priority-3 td { border-color: transparent; }
 
 /* Buttons */
