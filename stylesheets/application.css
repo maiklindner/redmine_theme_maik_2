@@ -869,7 +869,7 @@ input.autocomplete {
 	background-image: url(../images/clock.png) !important;
 }
 
-.toc * {
+.toc, .toc li {
 	background-color: #eee !important;
 	color: #222 !important;
 	font-size: 1.2em !important;
