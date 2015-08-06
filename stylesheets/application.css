@@ -870,8 +870,6 @@ input.autocomplete {
 }
 
 .toc {
-	background-color: #fff;
-	font-size: 1.0em;
-	
-	
+	background-color: #fff !important;
+	font-size: 1.0em !important;
 }
