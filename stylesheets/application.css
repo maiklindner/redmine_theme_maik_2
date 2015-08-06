@@ -868,11 +868,12 @@ input.autocomplete {
 .icon-start, .icon-stop {
 	background-image: url(../images/clock.png) !important;
 }
-
-.toc, .toc li {
-	background-color: #ddd !important;
+.toc  {
 	border: 1px solid #bbb !important;
+	background-color: #ddd !important;
 	padding: 14px !important;
+}
+.toc, .toc li {
 	color: #222 !important;
 	font-size: 100% !important;
 }
