@@ -870,8 +870,12 @@ input.autocomplete {
 }
 
 .toc, .toc li {
-	background-color: #eee !important;
+	background-color: #ddd !important;
+	border: 1px solid #bbb !important;
+	padding: 14px !important;
 	color: #222 !important;
 	font-size: 100% !important;
 }
-
+.toc a, .toc li a {
+	color: #222 !important;
+}
