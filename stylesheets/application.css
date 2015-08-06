@@ -273,7 +273,7 @@ table.list td {padding: 5px; text-align: left;}
 table.list input[type="checkbox"] {margin-top: 6px;}
 
 table.list tbody tr:hover { background-color: #eee; }
-table.list tr.issue a { color: #666; }
+table.list tr.issue a { color: #000; }
 tr.odd { background-color: transparent;}
 tr.even { background-color: transparent;}
 table.list th { 
@@ -289,7 +289,7 @@ tr.odd.priority-7 { background: #f99393; }
 tr.odd.priority-7:hover, tr.even.priority-7:hover { background: #e88; }
 tr.even.priority-7, table.list tbody tr.even.priority-7:hover { color: #000; font-weight: normal; }
 tr.even.priority-7 { background: #f99; }
-tr.priority-7 a, tr.priority-7:hover a { color: #000 !important; }
+/* tr.priority-7 a, tr.priority-7:hover a { color: #000 !important; } */
 tr.odd.priority-7 td, tr.even.priority-7 td { border-color: transparent; }
 
 /*Immediately*/
@@ -298,7 +298,7 @@ tr.odd.priority-6 { background: #f9c671; }
 tr.odd.priority-6:hover, tr.even.priority-6:hover { background: #eb6; }
 tr.even.priority-6, table.list tbody tr.even.priority-6:hover { color: #000; font-weight: normal; }
 tr.even.priority-6 { background: #fc7; }
-tr.priority-6 a, tr.priority-6:hover a { color: #000 !important; }
+/* tr.priority-6 a, tr.priority-6:hover a { color: #000 !important; } */
 tr.odd.priority-6 td, tr.even.priority-6 td { border-color: transparent; }
 
 /*High*/
@@ -307,7 +307,7 @@ tr.odd.priority-5 { background: #f9e8b6; }
 tr.odd.priority-5:hover, tr.even.priority-5:hover { background: #eda; }
 tr.even.priority-5, table.list tbody tr.even.priority-5:hover { color: #000; }
 tr.even.priority-5 { background: #feb; }
-tr.priority-5 a { color: #000 !important; }
+/* tr.priority-5 a { color: #000 !important; } */
 tr.odd.priority-5 td, tr.even.priority-5 td { border-color: transparent; }
 
 /*Normal*/
@@ -316,7 +316,7 @@ tr.odd.priority-4 { background: #f9f9f9; }
 tr.odd.priority-4:hover, tr.even.priority-4:hover { background: #eee; }
 tr.even.priority-4, table.list tbody tr.even.priority-4:hover { color: #000; }
 tr.even.priority-4 { background: #fff }
-tr.priority-4 a { color: #000 !important; }
+/* tr.priority-4 a { color: #000 !important; } */
 tr.odd.priority-4 td, tr.even.priority-4 td { border-color: transparent; }
 
 /*Low*/
@@ -325,7 +325,7 @@ tr.odd.priority-3 { background: #d7f9c6; }
 tr.odd.priority-3:hover, tr.even.priority-3:hover { background: #ceb; }
 tr.even.priority-3, table.list tbody tr.even.priority-3:hover { color: #000; }
 tr.even.priority-3 { background: #dfc; }
-tr.priority-3 a { color: #000 !important; }
+/* tr.priority-3 a { color: #000 !important; } */
 tr.odd.priority-3 td, tr.even.priority-3 td { border-color: transparent; }
 
 /* Buttons */
