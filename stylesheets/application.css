@@ -880,3 +880,73 @@ input.autocomplete {
 .toc a, .toc li a {
 	color: #222 !important;
 }
+
+/* STYLISH */
+
+* {
+    font-family: Roboto !important;
+}
+code *, pre * {
+    font-family: Roboto Mono !important;
+    font-size: 11pt;
+}
+body, #wrapper, h1, h2, h3, h4, div, p, p.percent, a, input, li, p, textarea, select {
+    font-size:11pt; 
+}
+body.stealth_on {
+    background: #e6e6e6;
+    -webkit-filter: invert(10%) !important;
+}
+body #header {
+    padding-top: 70px;
+}
+body #top-menu {
+    border-top: 2px solid #ddd;
+    padding-top: 10px !important;
+    border-bottom: 1px solid #eee;
+    background: #eee !important;
+	position: fixed;
+    box-shadow: 0px 3px 10px rgba(0,0,0,.2);
+    width: 99%;
+    z-index: 1000;
+}    
+body #top-menu,
+body #top-menu a {
+    font-size: 11pt !important;
+}
+body.stealth_on #top-menu {
+    border-top-color: #c00;
+    border-bottom-color: #ddd;
+    background: #ddd !important;
+}
+.controller-news h3 {
+    font-size: 1.1em;
+    background: #f5f5f5;
+    padding: 10px 20px;
+}
+.next-prev-links {
+	padding: 5px;
+}
+#main-menu
+{
+    position: relative;
+}
+a:hover {
+    text-decoration: underline !important;
+}
+input[type="text"]:focus,
+input[type="password"]:focus,
+select:focus,
+textarea:focus
+{
+    outline: none !important;
+    border-color: #698BC2 !important;
+    box-shadow: 0 0 10px #9EC0F7 !important;
+    background-color: #fcfeff !important;
+}
+.contextual {
+    margin-top: 12px !important;
+}
+div.wiki ul.toc a {
+    font-size: 1em;
+}
