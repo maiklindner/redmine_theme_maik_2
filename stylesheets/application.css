@@ -884,10 +884,10 @@ input.autocomplete {
 /* STYLISH */
 @import 'https://fonts.googleapis.com/css?family=Roboto';
 * {
-    font-family: Roboto !important;
+    font-family: Roboto, Arial, Sans-Serif !important;
 }
 code *, pre * {
-    font-family: Roboto Mono !important;
+    font-family: Roboto Mono, Consolas, Mono !important;
     font-size: 11pt;
 }
 body, #wrapper, h1, h2, h3, h4, div, p, p.percent, a, input, li, p, textarea, select {
