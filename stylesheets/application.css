@@ -882,7 +882,13 @@ input.autocomplete {
 }
 
 /* STYLISH */
-@import 'https://fonts.googleapis.com/css?family=Roboto';
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/roboto/v15/5YB-ifwqHP20Yn46l_BDhA.eot);
+}
+
 * {
     font-family: Roboto, Arial, Sans-Serif !important;
 }
