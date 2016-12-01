@@ -950,3 +950,9 @@ textarea:focus
 div.wiki ul.toc a {
     font-size: 1em;
 }
+
+div.wiki table, div.wiki td, div.wiki th {
+    border: 1px solid #aaa;
+    padding: 4px;
+    background: rgba(255,255,255,.3)
+}
