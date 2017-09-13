@@ -162,7 +162,7 @@ p.subtitle {
 
 div.filters h2 .scope_title a { color: #222; text-decoration: none; } 
 
-h2, .wiki h1 { color: #222; font-size: 22px;}
+h2, .wiki h1 { color: #222; font-size: 1.6em;}
 h3, .wiki h2 { color: #222; }
 .wiki h1, .wiki h2 {font-weight: normal;}
 
@@ -759,6 +759,7 @@ div.thumbnails div {
 	padding: 25px 0px 2px;
 }
 .wiki h2 {
+	font-size: 1.4em;
 	padding: 25px 0px 2px;
 }
 
@@ -890,7 +891,7 @@ code *, pre * {
     font-family: Roboto Mono, Consolas, Mono !important;
     font-size: 11pt;
 }
-body, #wrapper, h1, h2, h3, h4, div, p, p.percent, a, input, li, p, textarea, select {
+body {
     font-size:11pt; 
 }
 body.stealth_on {
@@ -955,4 +956,8 @@ div.wiki table, div.wiki td, div.wiki th {
     border: 1px solid #aaa;
     padding: 4px;
     background: rgba(255,255,255,.3)
+}
+
+.ui-state-focus {
+	font-weight: normal !important;
 }
