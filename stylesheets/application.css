@@ -17,9 +17,8 @@
 	color: #666;
 }
 
-body, #wrapper, h1, h2, h3, h4, p.percent, a, input, li, p, textarea {
-	font-family: Arial, Tahoma, "Lucida Grande", verdana, helvetica, sans-serif;
-	font-size: 10pt;
+body, #wrapper, p.percent, input, li, p, textarea {
+	font-size: 11pt;
 }
 
 li {
