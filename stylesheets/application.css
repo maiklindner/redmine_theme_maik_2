@@ -944,9 +944,7 @@ textarea:focus
     box-shadow: 0 0 10px #9EC0F7 !important;
     background-color: #fcfeff !important;
 }
-.contextual {
-    margin-top: 12px !important;
-}
+
 div.wiki ul.toc a {
     font-size: 1em;
 }
